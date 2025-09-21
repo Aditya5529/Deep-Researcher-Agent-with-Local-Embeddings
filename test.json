@@ -1,0 +1,10 @@
+[
+  {
+    "text": "Deep Researcher Agent Test PDF\n\nThis document explains how AI can help in research.\n\nArtificial intelligence allows automated text analysis, summarization, and retrieval.\n\nThis PDF is created just for testing your pipeline.",
+    "meta": {
+      "source": "data\\test.pdf",
+      "type": "pdf",
+      "chunk": 0
+    }
+  }
+]
